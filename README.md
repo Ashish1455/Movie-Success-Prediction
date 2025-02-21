@@ -18,17 +18,9 @@ This project predicts the success of a movie based on various factors like budge
    ```sh
    pip install -r requirements.txt
    ```
-3. Run the analysis:
-   ```sh
-   python main.py
-   ```
 
 ## Dataset
 - The dataset includes information on various movies, their box office earnings, and other features.
-
-## Usage
-- Train a new prediction model or use a pre-trained model to analyze movie success probabilities.
-- Adjust hyperparameters in `config.py` for tuning.
 
 ## Results
 - The model provides a success probability for movies based on input features.
