@@ -14,10 +14,6 @@ This project predicts the success of a movie based on various factors like budge
    git clone https://github.com/Ashish1455/Movie-Success-Prediction.git
    cd Movie-Success-Prediction
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Dataset
 - The dataset includes information on various movies, their box office earnings, and other features.
